@@ -1,2 +1,2 @@
-# CodeCademy
+# Codecademy
 Learning from Codecademy
